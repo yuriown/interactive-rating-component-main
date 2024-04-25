@@ -8,4 +8,4 @@ Project of a Interactive Rating Component made through Frontend Mentor.
 - CSS
 - JavaScript
 
-### <a href="https://yuriown.github.io/quest-huddle-landing-page/">Click here<a> to access the live project.
+### <a href="https://yuriown.github.io/interactive-rating-component-main/">Click here<a> to access the live project.
