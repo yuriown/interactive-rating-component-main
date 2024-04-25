@@ -1,0 +1,7 @@
+:root{
+    --btn-click: hsl(25, 97%, 53%, 1);
+    --light-grey: hsl(217, 12%, 63%);
+    --medium-grey: hsl(216, 12%, 54%, 0.3);
+    --dark-blue: rgb(33, 40, 50);
+    --very-dark-blue: rgb(20,21,25);
+}
